@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    overflow: hidden;
+}
+
+/* 
+    Navigation
+*/
+
+nav {
+    display: inline-block;
+}
+
+/* 
+    Main Content
+*/
+
+main {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.home-logo {
+    padding: 2rem;
+}
+
+.other-language {
+    display: inline-block
+}
+
+/* 
+    Input Button
+*/
+
+.input-container {
+    position: absolute;
+}
+
+/*
+    Footer
+*/
+
+footer {
+    display: flex;
+    position: absolute;
+}
